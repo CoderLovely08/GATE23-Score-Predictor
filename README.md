@@ -3,6 +3,7 @@
 ## Steps to calculate your gate score
 1. Fork this respository
 2. Copy your responses from your login as it is. Note: start copying from 1 upto last NAT excluding the headers such as question no etc.
+
 Example: 
 ```text
 1	B	MCQ	2	B	MCQ	3	A	MCQ
